@@ -1,5 +1,10 @@
+<<<<<<< HEAD
+function greet(name) {
+    console.log("Greetings for the" + name);
+=======
 function greet(name, nickname) {
     console.log("Greetings " + name + nickname);
+>>>>>>> master
 };
 
 
