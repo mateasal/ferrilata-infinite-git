@@ -4,8 +4,8 @@ function greet(name) {
 
 
 
-function cheer(baselanguage){
-    console.log(baselanguage);
+function cheer(){
+    console.log('cheer for the parameter');
 };
 
 
