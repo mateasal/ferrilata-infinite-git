@@ -12,7 +12,7 @@ function count(name){
     console.log(`${name}'s age is 26`);
 };
 
-function future () {
-    console.log('Cancer')
+function future (sign) {
+    console.log(sign)
 };
 
