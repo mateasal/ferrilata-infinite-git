@@ -4,9 +4,10 @@ function greet(name) {
 
 
 
-function cheer(){
-    console.log('ferrilata-infinite')
-}
+function cheer(number){
+    console.log(number);
+};
+
 function count(name){
     console.log(`${name}'s age is 26`);
 };
