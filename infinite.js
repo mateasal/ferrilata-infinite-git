@@ -8,8 +8,8 @@ function cheer(number){
     console.log(number);
 };
 
-function count(name){
-    console.log(`${name}'s age is 26`);
+function count(name, month){
+    console.log(`${name}'s age is 26 and was born in ${month} month.`);
 };
 
 function future (sign) {
