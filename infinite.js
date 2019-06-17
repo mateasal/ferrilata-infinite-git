@@ -7,8 +7,8 @@ function greet(name) {
 function cheer(){
     console.log('ferrilata-infinite')
 }
-function count(){
-    console.log("nora's age is 26");
+function count(name){
+    console.log(`${name}'s age is 26`);
 };
 
 function future () {
