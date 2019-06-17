@@ -1,11 +1,16 @@
-function greet(name) {
-    console.log("Greetings " + name);
+function greet(name, nickname) {
+    console.log("Greetings " + name + nickname);
 };
 
 
 
+<<<<<<< HEAD
 function cheer(){
     console.log('cheer for the parameter');
+=======
+function cheer(oneParam, twoParam){
+    console.log(`${oneParam} + ${twoParam}`);
+>>>>>>> master
 };
 
 
@@ -14,6 +19,7 @@ function future (name, sign) {
 };
 
 
-function count(name, month){
+function count(name, month, third){
     console.log(`${name}'s age is 26 and was born in ${month} month.`);
+    console.log(third);
 };
