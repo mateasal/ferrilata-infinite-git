@@ -4,8 +4,8 @@ function greet(name) {
 
 
 
-function cheer(number){
-    console.log(number);
+function cheer(baselanguage){
+    console.log(baselanguage);
 };
 
 function count(name, month){
