@@ -12,7 +12,7 @@ function count(name, month){
     console.log(`${name}'s age is 26 and was born in ${month} month.`);
 };
 
-function future (sign) {
-    console.log(sign)
+function future () {
+    console.log('Rabbit')
 };
 
