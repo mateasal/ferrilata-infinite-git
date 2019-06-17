@@ -9,8 +9,8 @@ function cheer(baselanguage){
 };
 
 
-function future () {
-    console.log('HÜLYESÉG')
+function future (name, sign) {
+    console.log(`${name}'s sign is ${sign}`)
 };
 
 
