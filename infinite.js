@@ -24,6 +24,8 @@ function future (name, sign) {
 };
 
 
+function count(countless){
+    console.log(`Counting the countless ${countless}.`);
 function count(name, month, third){
     console.log(`${name}'s age is 26 and was born in ${month} month.`);
     console.log(third);
