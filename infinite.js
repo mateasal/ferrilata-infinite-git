@@ -4,8 +4,13 @@ function greet(name, nickname) {
 
 
 
+<<<<<<< HEAD
+function cheer(){
+    console.log('cheer for the parameter');
+=======
 function cheer(oneParam, twoParam){
     console.log(`${oneParam} + ${twoParam}`);
+>>>>>>> master
 };
 
 
