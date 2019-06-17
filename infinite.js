@@ -9,8 +9,8 @@ function cheer(baselanguage){
 };
 
 
-function future () {
-    console.log('HÜLYESÉG')
+function future (parameter) {
+    console.log(`Your future looks like ${parameter}`)
 };
 
 
