@@ -1,16 +1,21 @@
+<<<<<<< HEAD
 function greet(name) {
     console.log("Greetings for the" + name);
+=======
+function greet(name, nickname) {
+    console.log("Greetings " + name + nickname);
+>>>>>>> master
 };
 
 
 
-function cheer(baselanguage){
-    console.log(baselanguage);
+function cheer(oneParam, twoParam){
+    console.log(`${oneParam} + ${twoParam}`);
 };
 
 
-function future () {
-    console.log('HÜLYESÉG')
+function future (name, sign) {
+    console.log(`${name}'s sign is ${sign}`)
 };
 
 
